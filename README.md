@@ -1,3 +1,13 @@
+---
+title: Twinkle Eval Analyzer
+emoji: ✨
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_file: app.py
+pinned: false
+---
+
 # 🌟 Eval Analyzer
 
 一個基於 🎈 **Streamlit** 的互動式工具，用來分析 **[Twinkle Eval](https://github.com/ai-twinkle/Eval)** 格式的評估檔案（`.json` / `.jsonl`）。  
